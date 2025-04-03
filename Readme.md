@@ -6,6 +6,10 @@ Generate initial data science Jupyter Notebooks (`.ipynb`) automatically. Provid
 
 This tool aims to reduce the boilerplate code often required for initial data loading, cleaning, and exploratory data analysis (EDA), allowing data scientists to focus on deeper insights faster.
 
+## Demo
+
+Watch the demo video: [demo.webm](demo/demo.webm)
+
 ## Features
 
 *   **CSV Data Input:** Upload your primary dataset in CSV format.
