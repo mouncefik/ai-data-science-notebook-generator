@@ -8,7 +8,7 @@ This tool aims to reduce the boilerplate code often required for initial data lo
 
 ## Demo
 
-Watch the demo video: [demo.webm](demo/Demo.webm)
+![AI Notebook Generator Demo](demo/Demo.gif)
 
 ## Features
 
