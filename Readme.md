@@ -8,7 +8,7 @@ This tool aims to reduce the boilerplate code often required for initial data lo
 
 ## Demo
 
-Watch the demo video: [demo.webm](demo/demo.webm)
+Watch the demo video: [demo.webm](demo/Demo.webm)
 
 ## Features
 
